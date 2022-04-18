@@ -1,0 +1,5 @@
+Se hace uso de una LCD para poder imprimir los valores de 
+el sensor DHT11 
+-----------------------------------------
+la idea es hacer de este un web server que reciva los valores
+y los mande a ubidots
